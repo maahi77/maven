@@ -1,1 +1,0 @@
-<h1>welcome to spring boot</h1>
