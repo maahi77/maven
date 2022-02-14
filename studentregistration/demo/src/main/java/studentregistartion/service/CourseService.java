@@ -11,5 +11,5 @@ public interface CourseService {
 	
 	public void add(Course e);
     List<Course> get();
-    List<Course> getByPrice(Double price);	
+    List<Course> getByPrice(Double price);
 }
